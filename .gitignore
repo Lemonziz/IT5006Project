@@ -1,0 +1,5 @@
+data/*.pkl
+data/*.csv
+.DS_Store
+__pycache__/
+pyrightconfig.json
