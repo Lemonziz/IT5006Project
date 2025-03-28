@@ -1,2 +1,4 @@
 data
 src
+.DS_Store
+pyrightconfig.json
