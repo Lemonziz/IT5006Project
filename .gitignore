@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-data/*.pkl
-data/*.csv
-.DS_Store
-__pycache__/
-=======
 data
 src
 .DS_Store
->>>>>>> preprocessing
+model
 pyrightconfig.json
