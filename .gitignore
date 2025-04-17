@@ -3,3 +3,5 @@ src
 .DS_Store
 model
 pyrightconfig.json
+.vscode
+__pycache__
